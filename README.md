@@ -1,3 +1,5 @@
+Note: Right now there is no ip authorization on the stream server. Please do not post these links publicly
+
 ### RTMP live stream link: 
 rtmp://192.168.0.89:1935/live/LARIXxiaoniao250
 
