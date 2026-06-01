@@ -20,3 +20,6 @@ The configured 60-second playlist window is an upper bound on how many seconds o
 - docker rm rtmp-server
 - docker build -t my-nginx-rtmp .
 - docker run -d -p 1935:1935 -p 8080:8080 --name rtmp-server my-nginx-rtmp
+
+<img width="2048" height="1272" alt="image" src="https://github.com/user-attachments/assets/1f98fa53-89c1-4fac-acad-a61c64594b83" />
+
